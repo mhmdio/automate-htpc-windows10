@@ -1,3 +1,4 @@
+# !! use http://www.openflixr.com/ a much more features HTPC
 # automate-htpc-windows10
 Powershell Script to Automate HTPC setup on windows 10 using choco, pip and git
 ,this script will atuomate the process describe here:

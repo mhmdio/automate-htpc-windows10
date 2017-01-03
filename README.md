@@ -22,3 +22,6 @@ http://www.htpcguides.com/install-htpc-manager-windows
 # Issues:
 - S.M.A.R.T monitoring tools is not working
 - Manual service installation using NSSM
+
+# to-do:
+- use Ansible as baseline for Choco and pip
